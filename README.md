@@ -30,15 +30,15 @@ Dengan User kali dan password kali
 Buka Terminal
 
 ketikan perintah
-``sudo su
+`` sudo su
 
 masukan password user kali linux anda
-``apt-get update
+`` apt-get update
 
 untuk update repository dari kali linux 
 tunggu hingga selesai
 
-``apt-get install rustup 
+`` apt-get install rustup 
 
 
 `` rustup update stable 
