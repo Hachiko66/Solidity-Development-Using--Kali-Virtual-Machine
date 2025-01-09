@@ -27,16 +27,23 @@ setelah Selesai masuk Ke OS
 Dengan User kali dan password kali
 
 ## Foundry Instalation 
-Buka Terminal 
+Buka Terminal
+
 ketikan perintah
 ``sudo su
+
 masukan password user kali linux anda
 ``apt-get update
+
 untuk update repository dari kali linux 
 tunggu hingga selesai
 
 ``apt-get install rustup 
+
+
 `` rustup update stable 
+
+
 lalu install foundry
 To install Foundryup, open your terminal and run the following command:
 
